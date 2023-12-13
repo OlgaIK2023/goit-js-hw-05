@@ -1,4 +1,5 @@
 const sortByDescendingFriendCount = (users) => {
+  
   return users.toSorted();
   
 };
